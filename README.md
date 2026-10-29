@@ -1,50 +1,33 @@
-## Hi, I'm Karine 👋
+# Hi, I'm Karine 👋
 
-### Full-Stack Software Developer | Java & Spring Boot | Angular
+I'm a Full-Stack Software Developer with a background in Computer and Systems Engineering from Ain Shams University.
 
-I'm a software developer specializing in building scalable backend services and full-stack applications, with a strong foundation in computer and systems engineering.
+I mainly work with **Java, Spring Boot, and Angular**, building and maintaining applications in the fintech domain. Most of my experience revolves around backend development, REST APIs, microservices, and business process automation.
 
-My professional experience includes financial technology, loan lifecycle management, business process automation, and RESTful microservices.
+I enjoy working on both the technical and business sides of software development, understanding how things work and finding ways to make them better.
 
-### 🛠 Tech Stack
+### Tech Stack
 
-- **Backend:** Java, Spring Boot, Node.js, NestJS, REST APIs
-- **Frontend:** Angular, TypeScript, JavaScript, HTML, CSS
-- **Databases:** PostgreSQL, SQL
-- **Tools:** Git, Docker, Jenkins, Maven, Postman
-- **Other:** Camunda BPM, Python, C/C++
+**Backend:** Java, Spring Boot, Node.js, NestJS, REST APIs  
+**Frontend:** Angular, TypeScript, JavaScript, HTML, CSS  
+**Databases:** PostgreSQL, SQL  
+**Tools:** Git, Docker, Jenkins, Maven, Postman  
+**Other:** Camunda BPM, Python, C/C++
 
-### 💻 What I Work On
+### What I've Been Working With
 
-- Building and maintaining backend services and full-stack applications
-- Designing APIs and integrating microservices
-- Implementing workflow automation and business processes
-- Working with relational databases and data-driven applications
+- Developing and integrating microservices
+- Building APIs and implementing business logic
+- Automating business workflows using Camunda
+- Working with relational databases and complex data models
+- Developing frontend features with Angular
 
-### 🌱 Currently Exploring
+I'm also interested in improving my skills in software architecture, full-stack development, and DevOps.
 
-- Advanced Spring Boot architectures
-- Angular and modern full-stack development
-- DevOps, CI/CD, and containerization
+### Languages
 
-### 🌍 Languages
+Arabic (Native) · English (Professional) · French (B2)
 
-Arabic (Native) | English (Professional) | French (B2)
+### Let's Connect
 
-### 📫 Connect
-
-Feel free to explore my repositories and connect with me!
-<!--
-**KarineGeorge/KarineGeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories or reach out on LinkedIn.
